@@ -7,7 +7,7 @@ https://www.whois.com/whois/
 
 **DNS Lookups**
 https://mxtoolbox.com/ -- looks up DNS records
-https://spyse.com – DNS Records, subdomains, coorilations
+https://spyse.com -- DNS Records, subdomains, coorilations
 
 **Email Lookups**
 https://hunter.io -- find email addresses on the domain
